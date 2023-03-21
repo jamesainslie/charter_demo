@@ -1,5 +1,7 @@
+sensitive_notes.md
 # Local .terraform directories
-**/.terraform/*
+.terraform/*
+**/.terraform*
 
 # .tfstate files
 *.tfstate
